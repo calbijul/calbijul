@@ -1,9 +1,14 @@
-# 🏄‍♂️ Julham Calbi
+![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 
+<div align="center">
+
+## Julham Calbi
 **`Wannabe Developer`**
 
 I'm a beginner developer. I will add more description in the future.
 
+</div>
+<br/>
 
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/justcallmejul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaizeelsama) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/julwassup) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/GodtierKaizeel) 
