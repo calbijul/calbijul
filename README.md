@@ -58,6 +58,17 @@ I'm a beginner developer. I will add more description in the future. <br/>
 </div>
 
 ---
+
+## GitHub Contributions
+
+<!-- Platane's Snk contribution graph -->
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br>
+
+---
 [![](https://visitcount.itsvg.in/api?id=calbijul&icon=0&color=0)](https://visitcount.itsvg.in)
 
  <div align="center">
