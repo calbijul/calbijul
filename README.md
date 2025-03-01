@@ -38,10 +38,19 @@ I'm a beginner developer. I will add more description in the future. <br/>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-%23F24E1E.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-%23202C37.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MySQL Server](https://img.shields.io/badge/MySQL_Server-%234E73B5.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-%234E73B5.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 <br/>
 <br/>
 ## Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=calbijul&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=calbijul&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=calbijul&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=calbijul&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
