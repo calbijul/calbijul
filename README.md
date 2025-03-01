@@ -58,10 +58,6 @@ I'm a beginner developer. I will add more description in the future. <br/>
 </div>
 
 ---
-
-## GitHub Contributions
-
-<!-- Platane's Snk contribution graph -->
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </div>
@@ -69,8 +65,6 @@ I'm a beginner developer. I will add more description in the future. <br/>
 <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=calbijul&icon=0&color=0)](https://visitcount.itsvg.in)
-
  <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" />
 </div>
