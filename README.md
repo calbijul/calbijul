@@ -53,8 +53,12 @@ I'm a beginner developer. I will add more description in the future. <br/>
 <div align="center">
   
   <!-- ![](https://github-readme-stats.vercel.app/api?username=calbijul&show_icons=true&theme=transparent&hide_border=false&count_private=false) -->
+
+  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=calbijul&theme=transparent&hide_border=false) <br/>
+  
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=calbijul&theme=transparent&hide_border=false&layout=compact)
+  
 </div>
 
 ---
