@@ -61,10 +61,10 @@ I'm a beginner developer. I will add more description in the future. <br/>
   
 </div>
 
----
+<!-- ---
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</div>
+</div> -->
 
 <br>
 
