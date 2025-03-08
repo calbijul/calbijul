@@ -6,7 +6,7 @@
 <div align="center">
 
 ## Wadup! I'm Julham Calbi
-**`Wannabe Developer`** 
+**`Software Developer`** 
 
 I'm a beginner developer. I will add more description in the future. <br/>
 <p align="center">
