@@ -22,6 +22,8 @@ I'm a beginner developer. I will add more description in the future. <br/>
   <a href="https://instagram.com/kaizeelsama" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://pinterest.com/julwassup" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" /></a>
   <a href="https://reddit.com/user/GodtierKaizeel" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" /></a>
+   <a href="https://monkeytype.com/profile/calbijul" target="_blank"><img src="https://img.shields.io/badge/MonkeyType-000000?style=for-the-badge&logo=monkeytype&logoColor=white" alt="MonkeyType" /></a>
+</p>
 </p>
 <br/>
 
