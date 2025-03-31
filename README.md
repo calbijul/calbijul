@@ -21,7 +21,7 @@ I'm a beginner developer. I will add more description in the future. <br/>
   <a href="https://facebook.com/justcallmejul" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/kaizeelsama" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://pinterest.com/julwassup" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" /></a>
-  <a href="https://reddit.com/user/GodtierKaizeel" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
    <a href="https://monkeytype.com/profile/kaizeel" target="_blank"><img src="https://img.shields.io/badge/MonkeyType-000000?style=for-the-badge&logo=monkeytype&logoColor=white" alt="MonkeyType" /></a>
 </p>
 </p>
