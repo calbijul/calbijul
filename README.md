@@ -10,10 +10,10 @@
 
 I'm a beginner developer. I will add more description in the future. <br/>
 <p align="center">
-  <a href="https://github.com/calbijul?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://kaizeel.vercel.app/" target="_blank"><img alt="My Portfolio" title="My Portfolio" src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://github.com/calbijul?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://kaizeel.vercel.app/" target="_blank">
+  <img alt="My Portfolio" title="My Portfolio" src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
 
 </p>
 </div>
