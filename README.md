@@ -24,7 +24,7 @@ I'm a beginner developer. I will add more description in the future. <br/>
 <p align="center">
   <a href="https://facebook.com/justcallmejul" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/kaizeelsama" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 30px; height: 30px;" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
    <a href="https://monkeytype.com/profile/kaizeel" target="_blank">
     <img src="https://img.shields.io/badge/MonkeyType-1B1D36?style=for-the-badge&logo=monkeytype&logoColor=FF1493" alt="MonkeyType" />
   </a>
