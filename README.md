@@ -14,10 +14,6 @@ I'm a beginner developer. I will add more description in the future. <br/>
   <a href="https://kaizeel.vercel.app/" target="_blank">
   <img alt="My Portfolio" title="My Portfolio" src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=calbijul.calbijul&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
 
 </p>
 </div>
